@@ -1,4 +1,4 @@
-# Adminer-themes
+# Adminer-theme
 Adminer css theme redesign with cool color for the best php+mysql admin. Here's what it looks like:
 
 ![Alt text](https://s9.postimg.org/uv1jo54e7/Screenshot_1.png?raw=true "Title")
