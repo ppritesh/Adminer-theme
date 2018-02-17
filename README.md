@@ -11,3 +11,5 @@ Copy adminer.css to the folder where adminer.php is located. Voila.
 ### Updating Adminer
 
 To update adminer, download the latest version of adminer.php from [adminer.org][1] The css can be used without modification for future releases of adminer.
+
+  [1]: http://www.adminer.org
